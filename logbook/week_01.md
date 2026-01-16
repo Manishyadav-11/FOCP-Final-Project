@@ -1,4 +1,4 @@
-
+<!-- 
 ---
 
 # Introduction to Programming – Week 1 Summary
@@ -17,7 +17,7 @@ This lab introduces the basics of programming using **Python**. It helps beginne
 ## Python Interpreter
 
 * Python uses the **REPL** model: Read, Evaluate, Print, Loop.
-* Commands are typed at the `>>>` prompt.
+* Commands are type -->d at the `>>>` prompt.
 * `print()` is used to display output.
 * Previous commands can be reused using arrow keys.
 * The `help()` function provides built-in documentation.
